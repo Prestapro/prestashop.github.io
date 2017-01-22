@@ -1,0 +1,14 @@
+#
+/index.template.html
+/bower.json
+/package.json
+/server.js
+/webpack.config.js
+#
+client/
+#
+node_modules/
+#
+*.log
+out.txt
+postcss.config.js
